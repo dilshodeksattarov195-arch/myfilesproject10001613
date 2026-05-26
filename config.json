@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperptringify",
+        "uuid": 7789177,
+        "checksum": "zv5m7f"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
